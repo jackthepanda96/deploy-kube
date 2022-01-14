@@ -1,5 +1,5 @@
 # Kubernetes
-![Okteto](https://cloud.okteto.com/#/login)
+
 ## Preparation
 - Install kubectl
 - Register di [Okteto](https://cloud.okteto.com/#/login)
