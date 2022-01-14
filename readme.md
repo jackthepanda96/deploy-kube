@@ -1,5 +1,5 @@
 # Kubernetes
-
+![Okteto](https://cloud.okteto.com/#/login)
 ## Preparation
 - Install kubectl
 - Register di [Okteto](https://cloud.okteto.com/#/login)
@@ -8,7 +8,7 @@
 ## List syntax yang digunakan
 
 - Untuk melakukan create
-```kubectl
+```sh
     kubectl apply -f <nama-file>
 ```
 
@@ -18,11 +18,11 @@
 ```
 
 - Untuk mendapatkan detail informasi pada object tertentu
-```
+```sh
     kubectl describe <jenis> <nama-object>
 ```
 
 - Untuk melihat daftar object
-```
+```sh
     kubectl get <jenis>
 ```
